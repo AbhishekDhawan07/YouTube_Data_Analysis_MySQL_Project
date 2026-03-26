@@ -17,6 +17,7 @@ A structured SQL analytics project built on a simulated YouTube dataset. This pr
 9. [Sample Queries](#sample-queries)
 10. [Key Insights Unlocked](#key-insights-unlocked)
 11. [Author](#author)
+12. [Contributing](#contributing)
 
 ---
 
@@ -298,4 +299,10 @@ Built as a MySQL portfolio project to demonstrate end-to-end SQL proficiency acr
 
 ---
 
-> ⭐ If you found this project helpful, feel free to star or fork the repository!
+🤝 Contributing
+
+Contributions are welcome! If you'd like to improve this project, feel free to fork the repository and submit a pull request 🚀
+
+---
+
+> ⭐ If you found this project useful, consider starring the repository!
