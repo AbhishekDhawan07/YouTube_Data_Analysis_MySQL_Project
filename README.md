@@ -1,6 +1,6 @@
-# 🎬 YouTube_Data_Analysis_MySQL_Project
+# 🎬 YouTube Data Analysis MySQL Project
 
-A structured SQL analytics project built on a simulated YouTube dataset. This project covers the full spectrum of MySQL querying — from basic `SELECT` statements to advanced window functions, CTEs, anomaly detection, and revenue analytics — across six relational tables.
+A structured SQL analytics project built on a simulated YouTube dataset. This project covers the full spectrum of MySQL querying - from basic `SELECT` statements to advanced window functions, CTEs, anomaly detection, and revenue analytics - across six relational tables.
 
 ---
 
@@ -25,7 +25,7 @@ A structured SQL analytics project built on a simulated YouTube dataset. This pr
 
 This project simulates a YouTube-like analytics platform using MySQL. It models the relationships between creators, videos, daily performance metrics, audience engagement (likes/dislikes, comments), and revenue streams.
 
-The goal is to practice and demonstrate real-world SQL skills — from simple data retrieval to complex multi-table joins, window functions, Z-score anomaly detection, and KPI computation like CTR, engagement score, and creator lifetime value.
+The goal is to practice and demonstrate real-world SQL skills - from simple data retrieval to complex multi-table joins, window functions, Z-score anomaly detection, and KPI computation like CTR, engagement score, and creator lifetime value.
 
 ---
 
@@ -189,7 +189,7 @@ Business-level KPIs, anomaly detection, and complex analytics.
 - Top comment contributors by author
 - High-impression videos with zero revenue
 - Monthly revenue pivot by category (Jan–Jun 2023)
-- Multi-stage conversion funnel: impressions → clicks → views → watch time
+- Multi-stage conversion funnel: impressions -> clicks -> views -> watch time
 - Data inconsistency flag: daily views with no matching likes record
 
 ---
