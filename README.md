@@ -1,4 +1,4 @@
-# 🎬 YouTube Data Analysis MySQL Project
+# 🎬 YouTube Data Analysis using MySQL
 
 A structured SQL analytics project built on a simulated YouTube dataset. This project covers the full spectrum of MySQL querying - from basic `SELECT` statements to advanced window functions, CTEs, anomaly detection, and revenue analytics - across six relational tables.
 
